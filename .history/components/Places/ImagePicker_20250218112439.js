@@ -1,0 +1,14 @@
+const { View, Button } = require("react-native");
+
+function ImagePicker() {
+    fun
+    return (
+        <View>
+            <View>
+
+            </View>
+            <Button title="Take Image" onPress={}/>
+        </View>
+    );
+
+export default ImagePicker;

@@ -1,0 +1,20 @@
+{
+  "assets": [
+    {
+      "assetId": null,
+      "base64": null,
+      "duration": null,
+      "exif": null,
+      "fileName": "600a7571-b309-40bb-8714-56fe7bda2604.jpeg",
+      "fileSize": 11926,
+      "height": 810,
+      "mimeType": "image/jpeg",
+      "rotation": null,
+      "type": "image",
+      "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fdevice-features-88371f88-c238-46d6-bce9-7a0642209dce/ImagePicker/600a7571-b309-40bb-8714-56fe7bda2604.jpeg",
+      "width": 1440
+    }
+  ],
+  "canceled": false
+}
+{"assets": [{"assetId": null, "base64": null, "duration": null, "exif": null, "fileName": "c1fa6451-a618-4aa4-b23c-55c607522b6a.jpeg", "fileSize": 12569, "height": 810, "mimeType": "image/jpeg", "rotation": null, "type": "image", "uri": "file:///data/user/0/host.exp.exponent/cache/ExperienceData/%2540anonymous%252Fdevice-features-88371f88-c238-46d6-bce9-7a0642209dce/ImagePicker/c1fa6451-a618-4aa4-b23c-55c607522b6a.jpeg", "width": 1440}], "canceled": false}
