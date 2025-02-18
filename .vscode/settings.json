@@ -1,5 +1,10 @@
 {
-    "cSpell.words": [
-        "Pressable"
-    ]
+  "cSpell.words": ["Pressable"],
+  "workbench.tree.indent": 10,
+  "workbench.tree.renderIndentGuides": "always",
+  "editor.acceptSuggestionOnEnter": "smart",
+  "editor.snippetSuggestions": "top",
+  "editor.suggest.preview": true,
+  "editor.suggest.shareSuggestSelections": true,
+  "editor.inlineSuggest.syntaxHighlightingEnabled": true
 }
